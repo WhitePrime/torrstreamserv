@@ -45,7 +45,7 @@
         "@types/express-serve-static-core": "^4.17.14",
         "@types/express-winston": "^4.0.0",
         "@types/http-errors": "^1.8.0",
-        "@types/jest": "^26.0.15",
+        "@types/jest": "^27.0.2",
         "@types/jsonwebtoken": "^8.5.0",
         "@types/mime-types": "^2.1.0",
         "@types/mustache-express": "^1.2.1",
